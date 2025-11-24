@@ -1,0 +1,29 @@
+{
+  "feedback": [
+    {
+      "query": "How can generative AI improve regression testing?",
+      "rating": 5,
+      "comments": "good"
+    },
+    {
+      "query": "Test Query",
+      "rating": 5,
+      "comments": "Great"
+    },
+    {
+      "query": "How does AI help in automated test case generation?",
+      "rating": 3,
+      "comments": "Can do better"
+    },
+    {
+      "query": "Compare rule-based testing automation to AI-driven testing for large-scale distributed applications.",
+      "rating": 4,
+      "comments": "Good"
+    },
+    {
+      "query": "What is the role of AI in enhancing software quality assurance pipelines?",
+      "rating": 3,
+      "comments": "Nice"
+    }
+  ]
+}

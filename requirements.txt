@@ -1,0 +1,7 @@
+crewai
+openai
+python-dotenv
+requests
+beautifulsoup4
+tiktoken
+python-dotenv
